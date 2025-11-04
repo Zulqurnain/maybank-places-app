@@ -27,3 +27,9 @@ yarn-error.log*
 
 expo-env.d.ts
 # @end expo-cli
+# iOS build artifacts\ ios/build/
+ios/Pods/
+ios/*.xcworkspace/xcuserdata/
+ios/*.xcodeproj/xcuserdata/
+ios/*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcuserstate

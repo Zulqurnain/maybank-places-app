@@ -71,7 +71,7 @@ const placesSlice = createSlice({
     
     builder.addCase(selectPlaceAsync.rejected, (state, action) => {
       state.isLoading = false;
-      state.error = action.error?.message ?? 'Couldn't load place';
+      state.error = action.error?.message ?? "Couldn't load place";
     });
   },
 });
