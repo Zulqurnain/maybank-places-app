@@ -78,6 +78,7 @@ src/
 ├── types/              # TypeScript type definitions
 ├── utils/              # Utility functions
 └── screens/            # Screen components
+DEMO/                   # Demo video and screenshots
 ```
 
 ## Known Limitations
@@ -85,6 +86,12 @@ src/
 - Map display shows placeholder in Expo Go. For full map functionality, a development build is required.
 - The app requires an active internet connection for place search.
 - Search history is limited to 20 most recent items.
+
+## Demo
+
+The `DEMO` folder contains:
+- `demo.mov` - Video demonstration of the app
+- `demoImage.png` - Screenshot showing the app interface
 
 ## Testing
 
