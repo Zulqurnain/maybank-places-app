@@ -2,6 +2,16 @@
 
 A React Native mobile application built with Expo that integrates Google Places Autocomplete API for searching and displaying places on a map.
 
+## Demo
+
+### Screenshot
+![App Screenshot](DEMO/demoImage.png)
+
+### Video Demo
+[Watch Demo Video](DEMO/demo.mov)
+
+The demo video demonstrates the app's features including place search, autocomplete, and search history functionality.
+
 ## Features
 
 - Google Places Autocomplete integration for place search
@@ -86,12 +96,6 @@ DEMO/                   # Demo video and screenshots
 - Map display shows placeholder in Expo Go. For full map functionality, a development build is required.
 - The app requires an active internet connection for place search.
 - Search history is limited to 20 most recent items.
-
-## Demo
-
-The `DEMO` folder contains:
-- `demo.mov` - Video demonstration of the app
-- `demoImage.png` - Screenshot showing the app interface
 
 ## Testing
 
