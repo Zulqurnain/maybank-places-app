@@ -113,3 +113,8 @@ npm test
 - TypeScript
 - Jest
 
+---
+
+**Built by [Zulqurnain Haider](https://zulqurnainj.com/) — Senior Full Stack Engineer**
+
+For full portfolio visit: [https://zulqurnainj.com/](https://zulqurnainj.com/)
